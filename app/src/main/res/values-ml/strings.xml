@@ -1,2 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="app_name">പിന്തുണയ്ക്കുക</string>
+    <string name="lblHeader">ഇവിടെ പലതരം\nഡൈവസ്റ്റ്ഒഎസ് അനുബന്ധ ഉറവിടങ്ങൾ:</string>
+    <string name="btnNews">വാർത്ത</string>
+    <string name="btnDonate">സംഭാവന ചെയ്യുക</string>
+    <string name="btnRecommendedApps">ശുപാർശ ചെയ്യുന്ന പ്രയോഗങ്ങൾ</string>
+    <string name="btnCredits">കടപ്പാടും അറിയിപ്പുകളും</string>
+    <string name="btnPrivacyPolicy">സ്വകാര്യതാ നയം</string>
+    <string name="btnChatXmpp">സല്ലാപം (എക്സ്എംപിപി)</string>
+</resources>
